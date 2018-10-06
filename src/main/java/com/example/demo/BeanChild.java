@@ -13,6 +13,7 @@ public class BeanChild {
 		this.college = college;
 	}
 
+	
 	public String getAddress() {
 		return address;
 	}
